@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Kushagra!
 
-<!--
-**Kushagra54321/Kushagra54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) | 3rd Year Student  
+💻 Passionate about AI, Machine Learning, Web Development, and Open Source  
+🚀 Currently learning DSA, Python, and exploring Cloud & DevOps  
 
-Here are some ideas to get you started:
+## 🚀 Skills:
+- Programming: C++, Python, Java
+- Web: HTML, CSS, JavaScript (Basic)
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus:
+- Improving DSA & Competitive Programming
+- Contributing to Open Source (Hacktoberfest 2025 💻)
+- Building Projects in AI/ML and Web Dev
+
+## 📫 Let's Connect:
+[LinkedIn] www.linkedin.com/in/kushagra-singh-b86695297 | [GitHub] https://github.com/Kushagra54321
+
+---
+
